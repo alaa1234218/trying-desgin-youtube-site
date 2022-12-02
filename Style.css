@@ -1,6 +1,4 @@
-
-
-
+@media all{
 @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;500&family=Roboto:wght@300;700&display=swap');
 * {
     padding: 0;
@@ -164,7 +162,7 @@ div.card {
 div.card-body p {
     text-align: right;
     font-size: 15px;
-}
+}}
 
 
 
